@@ -10,7 +10,7 @@ body {
 
 header {
     min-height: 550px;
-    background: #451303 url("/img/wheat-back.jpg") no-repeat center;
+    background: #451303 url("img/wheat-back.jpg") no-repeat center;
     background-size: cover;
     color: white;
 }
@@ -262,7 +262,7 @@ nav ul a:active {
     left: 0;
     width: 68px;
     height: 68px;
-    background-image: url(/img/icon-brew.png);
+    background-image: url(img/icon-brew.png);
     background-repeat: no-repeat;
 }
 
@@ -273,7 +273,7 @@ nav ul a:active {
     left: 0;
     width: 68px;
     height: 68px;
-    background-image: url(/img/icon-matreshka.png);
+    background-image: url(img/icon-matreshka.png);
     background-repeat: no-repeat;
 }
 
@@ -284,7 +284,7 @@ nav ul a:active {
     left: 0;
     width: 68px;
     height: 68px;
-    background-image: url(/img/icon-thumbsup.png);
+    background-image: url(img/icon-thumbsup.png);
     background-repeat: no-repeat;
 }
 
@@ -395,7 +395,7 @@ nav ul a:active {
     left: -80px;
     width: 68px;
     height: 68px;
-    background-image: url(/img/quotes.png);
+    background-image: url(img/quotes.png);
     background-repeat: no-repeat;
 }
 
@@ -599,7 +599,7 @@ footer {
     display: inline-block;
     width: 72px;
     height: 68px;
-    background-image: url(/img/icon-insta.png);
+    background-image: url(img/icon-insta.png);
     background-color: #1b1b1b;
     background-repeat: no-repeat;
     border: 1px solid #322d24;
@@ -612,7 +612,7 @@ footer {
     display: inline-block;
     width: 72px;
     height: 68px;
-    background-image: url(/img/icon-fb.png);
+    background-image: url(img/icon-fb.png);
     background-color: #1b1b1b;
     background-repeat: no-repeat;
     border: 1px solid #322d24;
@@ -624,7 +624,7 @@ footer {
     display: inline-block;
     width: 72px;
     height: 68px;
-    background-image: url(/img/icon-vk.png);
+    background-image: url(img/icon-vk.png);
     background-color: #1b1b1b;
     background-repeat: no-repeat;
     border: 1px solid #322d24;
@@ -680,7 +680,7 @@ footer {
     width: 72px;
     height: 68px;
     left: -10px;
-    background-image: url(/img/htmlacademy.png);
+    background-image: url(img/htmlacademy.png);
     background-color: #1b1b1b;
     background-repeat: no-repeat;
     border: 1px solid #322d24;
